@@ -18,4 +18,3 @@ Step 1 : Run studentDb.sql file in command prompt.
 ![](https://pandao.github.io/editor.md/examples/images/4.jpg)
 
 Step 2: Run main.py file
-
