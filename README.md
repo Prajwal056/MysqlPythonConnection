@@ -1,6 +1,9 @@
-
 # MysqlPythonConnection
-
+<div align="center">
+  <h3 align="center">Best-README-Template</h3>
+  <p align="center">An awesome README template to jumpstart your projects!
+  </p>
+</div>
 
 ### Features
 
@@ -19,14 +22,11 @@ Step 1 : Run studentDb.sql file in command prompt.
   ```sh
   >> source <sql Path.sql>
   ```	
-<br />
+
 <div align="center">
   <a href="https://github.com/othneildrew/Best-README-Template">
     <img src="images/Terminal.jpg" alt="Logo" width="800" height="600">
   </a>
-  <h3 align="center">Best-README-Template</h3>
-  <p align="center">An awesome README template to jumpstart your projects!
-  </p>
 </div>
 
 
