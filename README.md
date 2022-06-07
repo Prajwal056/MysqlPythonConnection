@@ -12,12 +12,21 @@
 Step 1 : Run studentDb.sql file in command prompt.
 - How to Run MySQL 
   ```sh
-  >>mysql -u root -p
+  >> mysql -u root -p
   ```
 	 	 
 - Give the path of .sql file as:
-		>> source <sql Path.sql>
-		
-![](https://pandao.github.io/editor.md/examples/images/4.jpg)
+  ```sh
+  >> source <sql Path.sql>
+  ```	
+<br />
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="images/Terminal.jpg" alt="Logo" width="80" height="80">
+  </a>
+  <h3 align="center">Best-README-Template</h3>
+  <p align="center">An awesome README template to jumpstart your projects!
+  </p>
+</div>
 
 Step 2: Run main.py file
