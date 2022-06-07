@@ -1,4 +1,4 @@
-# MysqlPythonConnection
+<div align="center"># MysqlPythonConnection</div>
 
 ## About The Project
 MySQL Connector Python is used to access MySQL databases from Python using this repo. 
