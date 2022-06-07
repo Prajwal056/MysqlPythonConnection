@@ -7,7 +7,7 @@ Student databases will be utilized in this project.
 
 ### Features
 
-- main.py program will be able to
+main.py program will be able to
 1. Insert Book
 2. Insert Student
 3. Insert Borrowing
