@@ -11,7 +11,10 @@
 
 Step 1 : Run studentDb.sql file in command prompt.
 - How to Run MySQL 
-	 	 >>mysql -u root -p
+  ```sh
+  >>mysql -u root -p
+  ```
+	 	 
 - Give the path of .sql file as:
 		>> source <sql Path.sql>
 		
