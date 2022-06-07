@@ -2,7 +2,7 @@
 	 <h3 align="center">MysqlPythonConnection</h3>
 </div>
 
-## About The Project
+# About The Project
 MySQL Connector Python is used to access MySQL databases from Python using this repo. 
 Student databases will be utilized in this project.
 
