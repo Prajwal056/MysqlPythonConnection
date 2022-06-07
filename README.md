@@ -1,27 +1,15 @@
 # MysqlPythonConnection
 
-<div align="center">
-	<p align="center">
-	    An awesome README template to jumpstart your projects!
-	    <br />
-	    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
-	    <br />
-	    <br />
-	    <a href="https://github.com/othneildrew/Best-README-Template">View Demo</a>
-	    ·
-	    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
-	    ·
-	    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
-  	</p>
-</div>
+## About The Project
 MySQL Connector Python is used to access MySQL databases from Python using this repo. 
+Student databases will be utilized in this project.
 
 ### Features
 
-- main.py program will be able to 
-	- 1-> Insert Book
-	 -2-> Insert Student
-	 -3-> insert Borrowing
+- main.py program will be able to
+1. Insert Book
+2. Insert Student
+3. Insert Borrowing
 
 Step 1 : Run studentDb.sql file in command prompt.
 - How to Run MySQL 
